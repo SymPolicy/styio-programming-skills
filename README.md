@@ -8,7 +8,7 @@ Agent skills for writing and verifying end-user Styio programs.
 Install with the skills CLI:
 
 ```sh
-npx skills add SymPolicy/styio-programming-skills --skill styio-programming --agent universal --copy
+npx skills@1.7.0 add SymPolicy/styio-programming-skills --skill styio-programming --agent universal --copy
 python .agents/skills/styio-programming/scripts/verify.py --styio-bin "<styio-binary>" --json
 ```
 
