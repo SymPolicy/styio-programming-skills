@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "skill_version": "0.1.0",
+  "language": {
+    "repository": "https://github.com/Unka-Malloc/styio-nightly",
+    "commit": "fd3b3e2d9a900fa58bc70641a42885c991650210"
+  },
+  "verified_build": {
+    "commit": "85e41b90c7231b8a263b5b2c88f17fbd5833a078",
+    "binary_sha256": "2b0120e9a066dfdfc9f20cade97fdac5af9953f74e3780bd61952d9874d7c3a0",
+    "note": "CMake/routing/tests/docs-only candidate; no .cpp/.hpp changes relative to language baseline",
+    "environment": "Linux x86_64; GCC 14; LLVM 18.1.8; Release; Tree-sitter ON; ICU OFF"
+  },
+  "support_policy": "Language guidance targets the exact language commit. A different binary may pass the conformance fixtures, but that alone does not prove its source revision or full language compatibility."
+}

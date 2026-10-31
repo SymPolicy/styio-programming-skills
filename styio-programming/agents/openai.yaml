@@ -1,0 +1,4 @@
+interface:
+  display_name: "Styio Programming"
+  short_description: "Write and verify practical Styio programs"
+  default_prompt: "Use $styio-programming to write and test this Styio program."

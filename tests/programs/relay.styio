@@ -1,0 +1,4 @@
+# identity := (value) => value
+# relay := (value) => identity(value)
+relay(7) -> @stdout
+relay("ready") -> @stdout

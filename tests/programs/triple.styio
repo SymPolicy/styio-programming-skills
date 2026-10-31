@@ -1,0 +1,4 @@
+# triple := (value: i64) => value * 3
+@stdin >> #(line) => {
+    triple(line) -> @stdout
+}
